@@ -2,7 +2,7 @@
 #include "Menu.h"
 #include "Proxies.h"
 #include "Skins.h"
-
+//da coaie
 RecvVarProxyFn oSmokeEffectTickBegin = NULL;
 RecvVarProxyFn oDidSmokeEffect = NULL;
 RecvVarProxyFn oRecvnModelIndex;
